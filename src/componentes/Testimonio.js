@@ -19,7 +19,7 @@ function Testimonio(props) {
         </p>
       </div>
     </div>
-    );
+  );
 }
 
 export default Testimonio;
