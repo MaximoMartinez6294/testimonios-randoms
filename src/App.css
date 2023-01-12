@@ -30,7 +30,7 @@ h1 {
 .App {
   min-height: 100vh;
   display: flex; 
-  flex: wrap;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   text-align: center;
